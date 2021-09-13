@@ -1,0 +1,60 @@
+_repo: Huckleberry-Finn-kalandjai_66159
+_version: 0.0.1
+alternative_title: The adventures of Huckleberry Finn. Hungarian
+contributor:
+  illustrator:
+    agent_name: Pólya, Tibor
+    alias: Polya, Tibor
+    birthdate: 1886
+    deathdate: 1937
+    gutenberg_agent_id: '53660'
+    url: http://www.gutenberg.org/2009/agents/53660
+    wikipedia: https://hu.wikipedia.org/wiki/P%C3%B3lya_Tibor
+  translator:
+    agent_name: Rákosi, Jenő
+    aliases:
+    - Rákosi, Jeno
+    - Rakosi, Jeno
+    - Kremsner, Eugene
+    birthdate: 1842
+    deathdate: 1929
+    gutenberg_agent_id: '52788'
+    url: http://www.gutenberg.org/2009/agents/52788
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jen%C5%91_R%C3%A1kosi
+    - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Jen%C5%91
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2021-08-28'
+identifiers:
+  gutenberg: '66159'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Mississippi River -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Finn, Huckleberry (Fictitious character) -- Fiction'
+- GITenberg
+title: Huckleberry Finn kalandjai
+url: http://www.gutenberg.org/ebooks/66159
