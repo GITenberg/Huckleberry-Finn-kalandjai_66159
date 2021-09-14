@@ -1,5 +1,5 @@
 _repo: Huckleberry-Finn-kalandjai_66159
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The adventures of Huckleberry Finn. Hungarian
 contributor:
   illustrator:
@@ -23,6 +23,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Jen%C5%91_R%C3%A1kosi
     - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Jen%C5%91
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -35,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66159#Huckleberry-Finn-kalandjai
 gutenberg_issued: '2021-08-28'
 identifiers:
   gutenberg: '66159'
